@@ -49,27 +49,6 @@ streamlit run app/app.py
 
 6.YearBuilt: Year the house was built
 
-## Project Structure
-
-house-price-prediction/
-│
-├── app/                  # Streamlit app files
-│   ├── app.py
-│   └── predictor.py
-│
-├── data/                 # Dataset files
-│   └── housing.csv
-│
-├── models/               # Trained model files
-│   └── house_price_model.pkl
-│
-├── notebooks/            # Jupyter notebooks for EDA and model training
-│   └── EDA_and_Model.ipynb
-│
-├── train_model.py        # Script to train and save the model
-├── requirements.txt      # Project dependencies
-└── README.md             # This file
-
 ## Technologies Used
 
 1.Python
